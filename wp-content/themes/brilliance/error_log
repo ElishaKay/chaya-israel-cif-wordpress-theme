@@ -1,0 +1,12 @@
+[13-Feb-2018 20:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_singular() in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/comments.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/comments.php on line 1
+[13-Feb-2018 20:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_singular() in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/comments.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/comments.php on line 1
+[18-Sep-2019 21:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/moviehol/public_html/chayaisrael.org/wp-content/themes/brilliance/index.php on line 1
